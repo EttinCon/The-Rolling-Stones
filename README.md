@@ -31,9 +31,9 @@ This is a fantasy role-playing game for quick, chaotic adventures with friends. 
 
 *When you **inflict or suffer** harm*, you may render armour useless instead of losing health. A protagonist character (PC) on zero health is unconscious (but not dead until harmed further). A non-protagonist character (NPC) is dead as soon as they reach zero health.
 
-*When you **acquire items** along the way*, their usefulness should be proportionate to what you paid (or overcame) to claim them.
+*When you **acquire items** along the way*, balance their usefulness against what you paid (or overcame) to claim them.
 
-*When you **rest, replenish & repair** overnight*, you regain any spent points. You may also restore any shields/armour if you have access to materials/tools or crafters & their fees.
+*When you **rest, replenish & repair** overnight*, you regain any spent points. You may also restore any shields/armour if you have access to materials/tools or crafters & their fees. Advance one worldly threat in your absence.
 
 *When you **have a handful of stories***, at least one of them is worth telling at the tavern, and four worth drinking away. When your stories are told, increase an attribute by one (none higher than 18).
 
