@@ -1,10 +1,10 @@
 # Two Stones
 
-## The Ettin Adventure Game
+## (The Ettin Hack)
 
 This is a fantasy role-playing game for quick, chaotic adventures with friends. Everyone can be protagonists if you agree to share the burden of inventing the world around you during play. Dream up dangers to surprise each other, working together to evade, escape, endure, or eliminate them!
 
-*When you **create random characters** together*, roll three six-sided dice and write the total against the first attribute of the first player's sheet, the second on the second sheet, and so on. Reroll if that number has already been written and you will create  a set of unique sheets. The player with the highest of each attribute names their protagonist character after choosing a role from this table. Your character's role informs which risk-facing abilities they could test using their attributes. Every six points in an attribute gives them an extra point in a related resource (resources start at one).
+*When you **create random characters** together*, take turns rolling three six-sided dice and write the total against the first attribute of the first player's sheet, the second on the second sheet, and so on. Reroll if that number has already been written and you will create  a set of unique sheets. The player with the highest of each attribute names their protagonist character after choosing a role from this table. Your character's role informs which risk-facing abilities they test with each attribute. Every six points in an attribute gives them an extra point in a related resource (resources start at one).
 
 |   Role Choices   |   Attribute   |   Resource   |   Resource Usage   |
 | :--: | :--: | :--: | :--: |
